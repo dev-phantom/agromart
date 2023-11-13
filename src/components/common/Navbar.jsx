@@ -20,7 +20,7 @@ export default function Navbar() {
     <div className=' sticky top-0 left-0 z-[999] w-full bg-white px-1 shadow-md md:px-0 lg:px-5'>
       <div className='items-center justify-between gap-3 py-8 px-7 md:flex md:w-full md:px-4 lg:px-20'>
         <div className='font-roboto text-xl font-bold text-[#0E563F]'>
-          Agromart
+          farm2home
         </div>
 
         <div
