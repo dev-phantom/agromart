@@ -1,5 +1,5 @@
 {
-  "name": "agromart",
+  "name": "farm2home",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -35,14 +35,14 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gdscOAU-solution-team-4/agromart.git"
+    "url": "git+https://github.com/dev-phantom/agromart.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gdscOAU-solution-team-4/agromart/issues"
+    "url": "https://github.com/dev-phantom/agromart/issues"
   },
-  "homepage": "https://github.com/gdscOAU-solution-team-4/agromart#readme",
+  "homepage": "https://github.com/dev-phantom/agromart#readme",
   "description": ""
 }
